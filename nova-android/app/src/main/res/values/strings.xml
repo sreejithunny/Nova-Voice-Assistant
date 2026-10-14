@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Nova</string>
+    <string name="wake_service_title">Nova Voice Assistant</string>
+    <string name="wake_service_desc">Listening for "Nova" wake word...</string>
+</resources>

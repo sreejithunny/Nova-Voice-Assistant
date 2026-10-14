@@ -1,0 +1,22 @@
+# Only upload files needed for building the Android APK
+# Ignore old Windows desktop files
+/engine/
+/www/
+/main.py
+/run.py
+/AVA.db
+
+# Gradle & Android build cache
+*.iml
+.gradle/
+local.properties
+.idea/
+.DS_Store
+build/
+*/build/
+app/build/
+
+# Python cache & logs
+__pycache__/
+*.py[cod]
+*.log

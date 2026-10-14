@@ -1,0 +1,6 @@
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="nova_bg">#FF05050A</color>
+    <color name="nova_accent">#FF00D2FF</color>
+</resources>
